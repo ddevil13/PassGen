@@ -1,8 +1,8 @@
 # PassGen
 PassGen is a simple Random Password generator created by ddevil13.
-This software will generate a random password of size you want but does not guarantee a strong password.In order to make your password a strong one give proper input and include Special characters,Uppercase letters in your passwords.
+This software will generate a random password of length you want but does not guarantee a strong password.In order to make your password a strong one give proper input and include Special characters,Uppercase letters in your passwords.
 Default password will be a numeric password, in case you want to add letters, special characters etc give proper input at each steps.
-This software does not save any password for security reasons in case you want to save it copy and save it in your safe custody or in any other file.
+This software does not save any password for security reasons, in case you want to save it, copy and save it in your safe mind or in any other file.
 In case you find an issue or for suggestions feel free to raise it on GitHub. :)
 
 
@@ -29,4 +29,4 @@ python PassGen.py
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to update. After discussion will consider it for pull request.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/ddevil13/PassGen/blob/master/LICENSE)
